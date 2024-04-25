@@ -92,7 +92,6 @@ OpenBioLLM-70B is an advanced open source language model designed specifically f
 </div>
 
 
-- **Reward Model**: [Nexusflow/Starling-RM-34B](https://huggingface.co/Nexusflow/Starling-RM-34B)
 - **Policy Optimization**: [Fine-Tuning Language Models from Human Preferences (PPO)](https://arxiv.org/abs/1909.08593)
 - **Ranking Dataset**: [berkeley-nest/Nectar](https://huggingface.co/datasets/berkeley-nest/Nectar)
 - **Fine-tuning dataset**: Custom Medical Instruct dataset (We plan to release a sample training dataset in our upcoming paper; please stay updated)
@@ -106,7 +105,7 @@ This combination of cutting-edge techniques enables OpenBioLLM-70B to align with
 - **Language(s) (NLP):** en
 - **Developed By**: [Ankit Pal (Aaditya Ura)](https://aadityaura.github.io/) from Saama AI Labs 
 - **License:** Meta-Llama License 
-- **Fine-tuned from models:** [Meta-Llama-3-70B-Instruct](meta-llama/Meta-Llama-3-70B-Instruct) & [Starling-RM-34B](https://huggingface.co/Nexusflow/Starling-RM-34B)
+- **Fine-tuned from models:** [Meta-Llama-3-70B-Instruct](meta-llama/Meta-Llama-3-70B-Instruct)
 - **Resources for more information:**
     - Paper: Coming soon
 
