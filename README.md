@@ -85,7 +85,7 @@ OpenBioLLM-70B is an advanced open source language model designed specifically f
 
 🎓 **Superior Performance**: With 70 billion parameters, OpenBioLLM-70B outperforms other open source biomedical language models of similar scale. It has also demonstrated better results compared to larger proprietary & open-source models like GPT-4,  Gemini, Meditron-70B, Med-PaLM-1 & Med-PaLM-2 on biomedical benchmarks.
 
-🧠 **Advanced Training Techniques**: OpenBioLLM-70B builds upon the powerful foundations of the **Meta-Llama-3-70B-Instruct** and [Meta-Llama-3-70B-Instruct](meta-llama/Meta-Llama-3-70B-Instruct) models. It incorporates the same dataset and fine-tuning recipe as the Starling model, along with a custom diverse medical instruction dataset and a novel merge method. Key components of the training pipeline include:
+🧠 **Advanced Training Techniques**: OpenBioLLM-70B builds upon the powerful foundations of the **Meta-Llama-3-70B-Instruct** and [Meta-Llama-3-70B-Instruct](meta-llama/Meta-Llama-3-70B-Instruct) models. It incorporates the same dataset and fine-tuning recipe as the Starling model, along with a custom diverse medical instruction dataset. Key components of the training pipeline include:
 
 <div align="center">
 <img width="1200px" src="https://cdn-uploads.huggingface.co/production/uploads/5f3fe13d79c1ba4c353d0c19/oPchsJsEpQoGcGXVbh7YS.png">
