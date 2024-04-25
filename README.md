@@ -40,3 +40,32 @@ widget:
       It's important for parents to monitor their newborn's jaundice closely and seek medical advice if the jaundice progresses rapidly, becomes severe, or is accompanied by other symptoms such as poor feeding, lethargy, or excessive sleepiness. In these cases, further evaluation and management may be necessary.
       Remember that each baby is unique, and the timing of jaundice resolution can vary. If you have concerns about your newborn's jaundice, it's always best to consult with a healthcare professional for personalized advice and guidance.
 ---
+
+
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/5f3fe13d79c1ba4c353d0c19/C_rayJ5dhwr743167JNKz.png)
+
+<div align="center">
+  
+  <h1>Advancing Open-source Large Language Models in Medical Domain</h1>
+</div>
+
+<p align="center" style="margin-top: 0px;">
+  <a href="https://colab.research.google.com/drive/1F5oV20InEYeAJGmBwYF9NM_QhLmjBkKJ?usp=sharing">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="OpenChat Logo" style="width:20px; vertical-align: middle; display: inline-block; margin-right: 5px; margin-left: 10px; margin-top: 0px; margin-bottom: 0px;"/>
+    <span class="link-text" style=" margin-right: 5px;">Online Demo</span>
+  </a> |
+  <a href="https://github.com/openlifescience-ai">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub Logo" style="width:20px; vertical-align: middle; display: inline-block; margin-right: 5px; margin-left: 5px; margin-top: 0px; margin-bottom: 0px;"/>
+    <span class="link-text" style=" margin-right: 5px;">GitHub</span>
+  </a> |
+  <a href="#">
+    <img src="https://github.com/alpayariyak/openchat/blob/master/assets/arxiv-logomark-small-square-border.png?raw=true" alt="ArXiv Logo" style="width:20px; vertical-align: middle; display: inline-block; margin-right: 5px; margin-left: 5px; margin-top: 0px; margin-bottom: 0px;"/>
+    <span class="link-text" style="margin-right: 5px;">Paper</span>
+  </a> |
+  <a href="https://discord.gg/A5Fjf5zC69">
+    <img src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" alt="Discord Logo" style="width:20px; vertical-align: middle; display: inline-block; margin-right: 5px; margin-left: 5px; margin-top: 0px; margin-bottom: 0px;"/>
+    <span class="link-text">Discord</span>
+  </a>
+</p>
+
+
