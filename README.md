@@ -84,6 +84,7 @@ OpenBioLLM-70B is an advanced open source language model designed specifically f
 🧠 **Advanced Training Techniques**: OpenBioLLM-70B builds upon the powerful foundations of the **Meta-Llama-3-70B-Instruct** and [Meta-Llama-3-70B-Instruct](meta-llama/Meta-Llama-3-70B-Instruct) models. It incorporates the same dataset and fine-tuning recipe as the Starling model, along with a custom diverse medical instruction dataset and a novel merge method. Key components of the training pipeline include:
 
 
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/5f3fe13d79c1ba4c353d0c19/oPchsJsEpQoGcGXVbh7YS.png)
 
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/5f3fe13d79c1ba4c353d0c19/wILoFenv7FBQOt21PqwJJ.png)
+
 
