@@ -42,7 +42,8 @@ widget:
 ---
 
 
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/5f3fe13d79c1ba4c353d0c19/MnhsSEW_qFI4azX-ZF3Ti.png)
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/5f3fe13d79c1ba4c353d0c19/-gPkEzl6GzEgmrlAB_pWn.png)
+
 
 
 
