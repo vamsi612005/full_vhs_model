@@ -14,7 +14,7 @@ tags:
 model-index:
 - name: OpenBioLLM-70B
   results: []
-license: apache-2.0
+license: llama3
 language:
 - en
 datasets:
