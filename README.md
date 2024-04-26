@@ -238,7 +238,7 @@ print(outputs[0]["generated_text"][len(prompt):])
 | ClinicalGPT            | 30.56       | 27               | 30.37   | 19.48        | 25              | 24.27            | 26.08        | 63.8     | 28.18   | 30.52 |
 
 <div align="center">
-<img width="1200px" src="https://cdn-uploads.huggingface.co/production/uploads/5f3fe13d79c1ba4c353d0c19/_SzdcJSBjZyo8RS1bTEkP.png">
+<img width="1600px" src="https://cdn-uploads.huggingface.co/production/uploads/5f3fe13d79c1ba4c353d0c19/_SzdcJSBjZyo8RS1bTEkP.png">
 </div>
 
 ## Detailed Medical Subjectwise accuracy
