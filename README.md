@@ -221,7 +221,7 @@ print(outputs[0]["generated_text"][len(prompt):])
 
 |                    | Clinical KG | Medical Genetics | Anatomy | Pro Medicine | College Biology | College Medicine | MedQA 4 opts | PubMedQA | MedMCQA | Avg   |
 |--------------------|-------------|------------------|---------|--------------|-----------------|------------------|--------------|----------|---------|-------|
-| **OpenBioLLM-70B** | **92.93**       | **93.197**           | **83.904**  | **93.75**       | **93.827**          | **85.749**           | 78.162       | 78.97    | **74.014**  | **86.05588** |
+| **OpenBioLLM-70B** | **92.93**       | **93.197**           | **83.904**  | 93.75       | **93.827**          | **85.749**           | 78.162       | 78.97    | **74.014**  | **86.05588** |
 | Med-PaLM-2             | 88.3        | 90               | 77.8    | **95.2**         | 94.4            | 80.9             | **79.7**         | **79.2**     | 71.3    | 84.08 |
 | **GPT-4**              | 86.04       | 91               | 80      | 93.01        | **95.14**           | 76.88            | 78.87        | 75.2     | 69.52   | 82.85 |
 | Med-PaLM-1 (Flan-PaLM) | 80.4        | 75               | 63.7    | 83.8         | 88.9            | 76.3             | 67.6         | 79       | 57.6    | 74.7  |
@@ -237,8 +237,9 @@ print(outputs[0]["generated_text"][len(prompt):])
 | AlpaCare-llama2-7b     | 49.81       | 49               | 45.92   | 33.82        | 50              | 43.35            | 29.77        | 72.2     | 34.42   | 45.36 |
 | ClinicalGPT            | 30.56       | 27               | 30.37   | 19.48        | 25              | 24.27            | 26.08        | 63.8     | 28.18   | 30.52 |
 
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/5f3fe13d79c1ba4c353d0c19/_SzdcJSBjZyo8RS1bTEkP.png)
-
+<div align="center">
+<img width="1200px" src="https://cdn-uploads.huggingface.co/production/uploads/5f3fe13d79c1ba4c353d0c19/_SzdcJSBjZyo8RS1bTEkP.png">
+</div>
 
 ## Detailed Medical Subjectwise accuracy
 
