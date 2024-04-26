@@ -245,7 +245,7 @@ print(outputs[0]["generated_text"][len(prompt):])
 
 # Use Cases & Examples
 
-🚨 **Below results are from the quantized version of OpenBioMed-70B
+🚨 **Below results are from the quantized version of OpenBioLLM-70B
 
 
 # Summarize Clinical Notes
@@ -307,7 +307,7 @@ OpenBioLLM-70B can detect and remove personally identifiable information (PII) f
 While OpenBioLLM-70B leverages high-quality data sources, its outputs may still contain inaccuracies, biases, or misalignments that could pose risks if relied upon for medical decision-making without further testing and refinement. The model's performance has not yet been rigorously evaluated in randomized controlled trials or real-world healthcare environments.
 
 Therefore, we strongly advise against using OpenBioLLM-70B for any direct patient care, clinical decision support, or other professional medical purposes at this time. Its use should be limited to research, development, and exploratory applications by qualified individuals who understand its limitations.
-OpenBioMed-70B is intended solely as a research tool to assist healthcare professionals and should never be considered a replacement for the professional judgment and expertise of a qualified medical doctor.
+OpenBioLLM-70B is intended solely as a research tool to assist healthcare professionals and should never be considered a replacement for the professional judgment and expertise of a qualified medical doctor.
 
 Appropriately adapting and validating OpenBioLLM-70B for specific medical use cases would require significant additional work, potentially including:
 
