@@ -215,7 +215,7 @@ print(outputs[0]["generated_text"][len(prompt):])
 
 # Benchmark Results
 
-🔥 OpenBioMed-70B demonstrates superior performance compared to larger models, such as GPT-4,  Gemini, Meditron-70B, Med-PaLM-1 & Med-PaLM-2 across 9 diverse biomedical datasets, achieving state-of-the-art results with an average score of 86.06%, despite having a significantly smaller parameter count. The model's strong performance in domain-specific tasks, such as Clinical KG, Medical Genetics, and PubMedQA, highlights its ability to effectively capture and apply biomedical knowledge.
+🔥 OpenBioLLM-70B demonstrates superior performance compared to larger models, such as GPT-4,  Gemini, Meditron-70B, Med-PaLM-1 & Med-PaLM-2 across 9 diverse biomedical datasets, achieving state-of-the-art results with an average score of 86.06%, despite having a significantly smaller parameter count. The model's strong performance in domain-specific tasks, such as Clinical KG, Medical Genetics, and PubMedQA, highlights its ability to effectively capture and apply biomedical knowledge.
 
 🚨 The GPT-4, Med-PaLM-1, and Med-PaLM-2 results are taken from their official papers. Since Med-PaLM doesn't provide zero-shot accuracy, we are using 5-shot accuracy from their paper for comparison. All results presented are in the zero-shot setting, except for Med-PaLM-2 and Med-PaLM-1, which use 5-shot accuracy.
 
@@ -250,14 +250,14 @@ print(outputs[0]["generated_text"][len(prompt):])
 
 # Summarize Clinical Notes
 
-OpenBioMed-70B can efficiently analyze and summarize complex clinical notes, EHR data, and discharge summaries, extracting key information and generating concise, structured summaries
+OpenBioLLM-70B can efficiently analyze and summarize complex clinical notes, EHR data, and discharge summaries, extracting key information and generating concise, structured summaries
 
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/5f3fe13d79c1ba4c353d0c19/xdwdBgOxNi_TfML0hKlI8.png)
 
 # Answer Medical Questions
 
-OpenBioMed-70B can provide answers to a wide range of medical questions.
+OpenBioLLM-70B can provide answers to a wide range of medical questions.
 
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/5f3fe13d79c1ba4c353d0c19/zO95GlwOQEZqCKQF69mE6.png)
@@ -275,7 +275,7 @@ OpenBioMed-70B can provide answers to a wide range of medical questions.
 
 # Clinical Entity Recognition
 
-OpenBioMed-70B can perform advanced clinical entity recognition by identifying and extracting key medical concepts, such as diseases, symptoms, medications, procedures, and anatomical structures, from unstructured clinical text. By leveraging its deep understanding of medical terminology and context, the model can accurately annotate and categorize clinical entities, enabling more efficient information retrieval, data analysis, and knowledge discovery from electronic health records, research articles, and other biomedical text sources. This capability can support various downstream applications, such as clinical decision support, pharmacovigilance, and medical research.
+OpenBioLLM-70B can perform advanced clinical entity recognition by identifying and extracting key medical concepts, such as diseases, symptoms, medications, procedures, and anatomical structures, from unstructured clinical text. By leveraging its deep understanding of medical terminology and context, the model can accurately annotate and categorize clinical entities, enabling more efficient information retrieval, data analysis, and knowledge discovery from electronic health records, research articles, and other biomedical text sources. This capability can support various downstream applications, such as clinical decision support, pharmacovigilance, and medical research.
 
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/5f3fe13d79c1ba4c353d0c19/_69BW4k9LVABFwtxixL45.png)
@@ -290,13 +290,13 @@ OpenBioMed-70B can perform advanced clinical entity recognition by identifying a
 
 # Classification
 
-OpenBioMed-70B can perform various biomedical classification tasks, such as disease prediction, sentiment analysis, medical document categorization
+OpenBioLLM-70B can perform various biomedical classification tasks, such as disease prediction, sentiment analysis, medical document categorization
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/5f3fe13d79c1ba4c353d0c19/Bf5MW1d75qT-1F_TR_hC0.png)
 
 # De-Identification
 
-OpenBioMed-70B can detect and remove personally identifiable information (PII) from medical records, ensuring patient privacy and compliance with data protection regulations like HIPAA.
+OpenBioLLM-70B can detect and remove personally identifiable information (PII) from medical records, ensuring patient privacy and compliance with data protection regulations like HIPAA.
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/5f3fe13d79c1ba4c353d0c19/hKX4kzm--Tw5bj6K78msy.png)
 
