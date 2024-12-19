@@ -393,4 +393,4 @@ Result sources
 - [1] GPT-4 [Capabilities of GPT-4 on Medical Challenge Problems] (https://arxiv.org/abs/2303.13375) 
 - [2] Med-PaLM-1 [Large Language Models Encode Clinical Knowledge](https://arxiv.org/abs/2212.13138)
 - [3] Med-PaLM-2 [Towards Expert-Level Medical Question Answering with Large Language Models](https://arxiv.org/abs/2305.09617)
-- [4] Gemini-1.0 [Gemini Goes to Med School](https://arxiv.org/abs/2402.07023)
+- [4] Gemini-1.0 [Gemini Goes to Med School](https://arxiv.org/abs/2402.07023)# full_vhs_model
